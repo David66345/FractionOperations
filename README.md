@@ -1,5 +1,5 @@
 # Fracciones
-Programa el cual realice un las operaciones de suma, resta, multiplicación y división de fracciones, respetando las siguientes características.
+Programa el cual realice un las operaciones de suma, resta, multiplicación y división de fracciones, respetando las siguientes características:
 
 a) La entrada consta de una sola cadena de caracteres, la cual incluya las dos fracciones y la operación.
 
